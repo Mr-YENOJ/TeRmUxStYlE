@@ -1,0 +1,1 @@
+neofetch --ascii (fortune | cowsay -f name MR.YENOJ ) | lolcat --animate
