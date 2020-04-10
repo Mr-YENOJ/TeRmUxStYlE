@@ -1,1 +1,0 @@
-neofetch --ascii "$(fortune | cowsay -f name hdjjdj )" | lolcat --animate
