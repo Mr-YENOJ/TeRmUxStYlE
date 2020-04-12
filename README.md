@@ -31,9 +31,9 @@ after pasting the you want to do ctrl+x,then y,then enter.
 ```
 ```
 ```
-now after some installation you can again seen new screen you want to do these changes 
+now in the end you want to bash TS1.sh. after bashing you see a new screen.
 ```
-now do some changes 
+now you want do some changes 
 ```
 ```
 1) add this $ in the start of bracket.
