@@ -23,6 +23,10 @@ sleep 30.0
 echo ""
 pkg install figlet -y
 echo ""
+cd
+echo ""
+cd TeRmUxStYlE
+echo " "
 cp -rf name.cow /data/data/com.termux/files/usr/share/cows
 echo " it dose not take much time wait"
 echo " "
@@ -38,7 +42,8 @@ cd TeRmUxStYlE
 cp -rf bash.bashrc /data/data/com.termux/files/usr/etc
 bash main.sh
 clear
-nano data/data/com.termux/files/usr/etc/bash.bashrc
+cd data/data/com.termux/files/usr/etc
+nano bash.bashrc
 clear
 
 
