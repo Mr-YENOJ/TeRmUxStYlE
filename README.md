@@ -1,4 +1,4 @@
-# TeRmUxStYle
+# TeRmUxStYle v1.5
 This is a cool terminal for termux user. 
 ## ABOUT:-
 this is a best termux interface. with slow motion this is the one of the best interfae.
