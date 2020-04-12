@@ -19,7 +19,7 @@ echo "
    ╚═╝╚═╝╚═╝    ╚══════╝   ╚═╝      ╚═╝   ╚══════╝╚══════╝
                                                        "
 echo " "
-cp name.cow /data/data/com.termux/files/usr/share/cows
+cp -rf name.cow /data/data/com.termux/files/usr/share/cows
 echo " it dose not take much time wait"
 echo " "
 bash pkg.txt
