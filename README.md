@@ -22,22 +22,19 @@ now came back to termux and cd TeRmUxStYlE
 ls
 ```
 ```
-nano name.cow
-```
-```
-NOW past the copy text down to the throuths. and in the end line writ EOC then enter
-after do this do ctrl+x then y then enter
-```
-```
 bash TS.sh
 ```
 ```
-AFTER, that past this command
-nano data/data/com.termux/files/usr/etc/bash.bashrc
+now you can see a new screen like $the_cow = <<EOC. simply past the copy text between the $throughts and EOC.
+```
+after pasting the you want to do ctrl+x,then y,then enter.
 ```
 ```
-now do some change 
-
+```
+now after some installation you can again seen new screen you want to do these changes 
+```
+now do some changes 
+```
 ```
 1) add this $ in the start of bracket.
 ```
