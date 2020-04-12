@@ -1,6 +1,7 @@
 # TeRmUxStYle
 This is a cool terminal for termux user. 
-
+## ABOUT:-
+this is a best termux interface. with slow motion this is the one of the best interfae.
 
 ### follow these steps:-
 ```
@@ -32,7 +33,7 @@ bash TS.sh
 ```
 ```
 AFTER, that past this command
-nano /data/data/com.termux/files/usr/etc/bash.bashrc
+nano data/data/com.termux/files/usr/etc/bash.bashrc
 ```
 ```
 now do some change 
