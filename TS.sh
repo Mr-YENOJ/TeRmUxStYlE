@@ -23,11 +23,16 @@ sleep 30.0
 echo ""
 pkg install figlet -y
 echo ""
+sleep 5.0
+echo ""
 cd
 echo ""
 cd TeRmUxStYlE
 echo " "
 cp -rf name.cow /data/data/com.termux/files/usr/share/cows
+clear
+sleep 5.0
+echo " "
 echo " it dose not take much time wait"
 echo " "
 bash pkg.txt
