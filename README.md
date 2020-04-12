@@ -37,12 +37,18 @@ nano data/data/com.termux/files/usr/etc/bash.bashrc
 ```
 ```
 now do some change 
-1) add this $ in the start of bracket
+
+```
+1) add this $ in the start of bracket.
+```
+```
 2) add this " before $ and after bracket
+```
+```
 ex- 
 before edit :- neofetch --ascii (fortune | cowsay -f name MR.YENOJ ) | lolcat --animate
 after edit :- neofetch --ascii "$(fortune | cowsay -f name MR.YENOJ )" | lolcat --animate
 ```
-```
-thanku
-now you can restart your termux
+# thanku
+# now you can restart your termux
+ 
