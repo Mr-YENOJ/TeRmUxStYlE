@@ -42,8 +42,6 @@ cd TeRmUxStYlE
 cp -rf bash.bashrc /data/data/com.termux/files/usr/etc
 bash main.sh
 clear
-cd data/data/com.termux/files/usr/etc
-nano bash.bashrc
 clear
 
 
