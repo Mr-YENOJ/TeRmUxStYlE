@@ -26,7 +26,7 @@ ls
 bash TS.sh
 ```
 ```
-now you can see a new screen like $the_cow = <<EOC. simply past the copy text between the $throughts and EOC.
+now you can see a new screen and the starting line be like $the_cow = <<EOC. simply past the copy text(that you copy) between the $throughts and EOC.
 ```
 after pasting the you want to do ctrl+x,then y,then enter.
 ```
