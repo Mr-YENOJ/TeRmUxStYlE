@@ -2,7 +2,8 @@
 This is a cool terminal for termux user. 
 ## ABOUT:-
 this is a best termux interface. with slow motion this is the one of the best interfae.
-
+### its show like this
+![](image.jpeg)
 ### follow these steps:-
 ```
 ```
