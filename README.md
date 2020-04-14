@@ -45,6 +45,7 @@ now you want do some changes
 ex- 
 before edit :- neofetch --ascii (fortune | cowsay -f name MR.YENOJ ) | lolcat --animate
 after edit :- neofetch --ascii "$(fortune | cowsay -f name MR.YENOJ )" | lolcat --animate
+{mr.yenoj is that name that you type}
 ```
 # thanku
 # now you can restart your termux
