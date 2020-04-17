@@ -5,6 +5,29 @@ this is a best termux interface. with slow motion this is the one of the best in
 ### its show like this
 ![](image.jpeg)
 ### follow these steps:-
+# warning
+<details>
+<summary> If you are don't using hacker keyboard then you can add termux button by this. 
+</summary>
+<pre>
+Do these steps
+1. pkg install nano -y
+2. nano j
+3. past this command:-
+Bano="mkdir"
+echo ""
+$Bano /$HOME/.termux
+echo "extra-keys = [['/','cd','$','*','UP','chmod','pkg install'],['exit','CTRL','bash','LEFT','DOWN','RIGHT','y']]" >> $HOME/.termux/termux.properties
+clear
+4. Then, ctrl+x, then y, then enter. 
+5. Last step, bash j
+</details>
+</pre>
+
+
+
+
+
 ```
 ```
 pkg install git nano -y
@@ -32,9 +55,16 @@ after pasting the you want to do ctrl+x,then y,then enter.
 ```
 ```
 ```
-now in the end you want to bash TS1.sh. after bashing you see a new screen.
 ```
-now you want do some changes 
+Now, small process is left. 
+Now, you want to restart you termux. 
+After restarting you want to do these command:-
+cd TeRmUxStYlE
+then bash TS1.sh
+Then do these changes 👇👇
+```
+```
+now you want do some changes in the last line👇👇👇 
 ```
 ```
 1) add this $ in the start of bracket.
