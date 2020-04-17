@@ -4,7 +4,6 @@ This is a cool terminal for termux user.
 this is a best termux interface. with slow motion this is the one of the best interfae.
 ### its show like this
 ![](image.jpeg)
-### follow these steps:-
 # warning
 <details>
 <summary> If you are don't using hacker keyboard then you can add termux button by this. 
@@ -27,7 +26,7 @@ clear
 
 
 
-
+### follow these steps:-
 ```
 ```
 pkg install git nano -y
