@@ -18,8 +18,8 @@ Do these steps
 </details>
 </pre>
 
-
-
+# this add these button in termux
+![](joney.jpeg)
 
 ### follow these steps:-
 ```
