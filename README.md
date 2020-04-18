@@ -6,7 +6,7 @@ this is a best termux interface. with slow motion this is the one of the best in
 ![](image.jpeg)
 # warning
 <details>
-<summary> If you are don't using hacker keyboard then you can add termux button by this. 
+<summary> If you are don't using hacker keyboard then you can add termux button by this. Because this make the process easy.
 </summary>
 <pre>
 Do these steps
