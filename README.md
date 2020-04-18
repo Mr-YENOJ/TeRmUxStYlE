@@ -10,16 +10,11 @@ this is a best termux interface. with slow motion this is the one of the best in
 </summary>
 <pre>
 Do these steps
-1. pkg install nano -y
-2. nano j
-3. past this command:-
-Bano="mkdir"
-echo ""
-$Bano /$HOME/.termux
-echo "extra-keys = [['/','cd','$','*','UP','chmod','pkg install'],['exit','CTRL','bash','LEFT','DOWN','RIGHT','y']]" >> $HOME/.termux/termux.properties
-clear
-4. Then, ctrl+x, then y, then enter. 
-5. Last step, bash j
+1. pkg install git -y
+2. git clone https://github.com/Mr-YENOJ/button1.0
+3. cd button1.0
+4. bash bu.sh
+5. restart your termux
 </details>
 </pre>
 
