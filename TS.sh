@@ -22,6 +22,7 @@ echo "                      -------------------------"
 echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/CreativeHackers\e[1m\e[32m]<----------"  
 echo " "
 echo ""
+sleep 6.0
 nano name.cow
 echo " "
 sleep 30.0
