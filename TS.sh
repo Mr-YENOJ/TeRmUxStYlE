@@ -54,5 +54,5 @@ cp -rf bash.bashrc /data/data/com.termux/files/usr/etc
 bash main.sh
 clear
 clear
-
+cp name.cow /data/data/com.termux/files/usr/share/cows
 
